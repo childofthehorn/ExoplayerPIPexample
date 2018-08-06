@@ -2,7 +2,7 @@
 
 Example App with drop-in VideoActivity with full Exoplayer2 with Picture-in-Picture support baked in.
 
-![App Screenshot](https://raw.githubusercontent.com/childofthehorn/ExoplayerPIPexample/master/exampleimages/pip_infinite_cycle.gif "App Screenshot"
+![App Screenshot](https://raw.githubusercontent.com/childofthehorn/ExoplayerPIPexample/master/exampleimages/pip_infinite_cycle.gif "App Screenshot")
 
 ## Min SDK
 Min sdk is API 21 (Lollipop)
